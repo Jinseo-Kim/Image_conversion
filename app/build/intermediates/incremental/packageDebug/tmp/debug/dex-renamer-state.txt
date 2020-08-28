@@ -1,0 +1,4 @@
+#Wed Aug 26 19:47:08 KST 2020
+base.0=/Users/jskim2/AndroidStudioProjects/Image_coversion/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
